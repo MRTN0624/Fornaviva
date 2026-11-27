@@ -1,0 +1,44 @@
+{
+  "preguntas_frecuentes": [
+    {
+      "pregunta": "¿Dónde está Fornaviva?",
+      "respuesta": "Estamos en Via della Fornace, 12, Madrid. Esta es una dirección ficticia de un proyecto de demostración."
+    },
+    {
+      "pregunta": "¿Cómo puedo contactar con vosotros?",
+      "respuesta": "Puedes llamarnos al 910 123 456 o escribirnos a info@fornaviva.example. Recuerda que Fornaviva es un restaurante ficticio creado como proyecto de demostración."
+    },
+    {
+      "pregunta": "¿Se admiten reservas?",
+      "respuesta": "Puedes hacer una reserva simulada a través de este chatbot escribiendo 'quiero reservar'. Las reservas son una simulación y no tienen validez real. Para una reserva real en un restaurante, contacta directamente con el establecimiento."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo guardáis la mesa?",
+      "respuesta": "En esta simulación, guardamos la mesa durante 15 minutos desde la hora reservada. Si llegas tarde, llámanos al 910 123 456 y lo arreglamos."
+    },
+    {
+      "pregunta": "¿Se admiten mascotas?",
+      "respuesta": "Admitimos mascotas en la terraza exterior siempre que estén bajo control. No se permite el acceso de animales al interior del local."
+    },
+    {
+      "pregunta": "¿Hay menú del día?",
+      "respuesta": "Sí, de martes a viernes ofrecemos un menú del día por 13 € que incluye antipasto, pizza o pasta del día, postre o café y pan. Pregunta al personal por las opciones disponibles."
+    },
+    {
+      "pregunta": "¿Tenéis opciones para celíacos o personas con alergias?",
+      "respuesta": "Nuestra carta incluye información orientativa sobre alérgenos. Esta información es para un proyecto de demostración y no garantiza ausencia de contaminación cruzada. En un restaurante real, informa siempre al personal de cualquier alergia o intolerancia antes de pedir."
+    },
+    {
+      "pregunta": "¿Aceptáis grupos grandes?",
+      "respuesta": "Sí, disponemos de un espacio para grupos de entre 8 y 40 personas. Para grupos de más de 8 comensales te pedimos que reserves con al menos 48 horas de antelación. Llámanos al 910 123 456."
+    },
+    {
+      "pregunta": "¿Hay menú infantil?",
+      "respuesta": "Sí, ofrecemos una pizza piccola para los más pequeños por 7 €, con los ingredientes de la Margherita y tamaño reducido. Acompañada de postre sencillo. Consulta disponibilidad con el personal."
+    },
+    {
+      "pregunta": "¿Cuál es la política de cancelación?",
+      "respuesta": "Puedes cancelar tu reserva simulada hasta 2 horas antes sin ningún problema. Para grupos de más de 8 personas, la cancelación debe realizarse con 24 horas de antelación. Recuerda que las reservas en Fornaviva son una simulación."
+    }
+  ]
+}

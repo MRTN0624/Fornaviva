@@ -1,0 +1,131 @@
+{
+  "nota": "La información sobre alérgenos es orientativa para este proyecto de demostración. Los datos no garantizan ausencia de contaminación cruzada ni sustituyen la consulta con el personal del restaurante.",
+  "platos": [
+    {
+      "id": "ant-01",
+      "nombre": "Bruschetta al pomodoro",
+      "vegetariano": true,
+      "alergenos": ["gluten"],
+      "nota": "El pan de masa madre contiene gluten. Apto para veganos."
+    },
+    {
+      "id": "ant-02",
+      "nombre": "Burrata con rúcula",
+      "vegetariano": true,
+      "alergenos": ["leche"],
+      "nota": "La burrata contiene leche. Sin gluten. La reducción de balsámico puede contener sulfitos."
+    },
+    {
+      "id": "ant-03",
+      "nombre": "Tabla de embutidos italianos",
+      "vegetariano": false,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La focaccia contiene gluten. Algunos embutidos pueden contener leche o sulfitos. Consultar composición exacta con el personal."
+    },
+    {
+      "id": "ant-04",
+      "nombre": "Sopa de tomate al pesto",
+      "vegetariano": true,
+      "alergenos": ["gluten", "leche", "frutos de cáscara"],
+      "nota": "Los picatostes contienen gluten. El pesto genovés contiene frutos de cáscara (piñones) y queso parmesano (leche)."
+    },
+    {
+      "id": "piz-01",
+      "nombre": "Margherita",
+      "vegetariano": true,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La masa contiene gluten. La mozzarella contiene leche."
+    },
+    {
+      "id": "piz-02",
+      "nombre": "Diavola",
+      "vegetariano": false,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La masa contiene gluten. La mozzarella contiene leche. El salame piccante puede contener sulfitos."
+    },
+    {
+      "id": "piz-03",
+      "nombre": "Quattro Formaggi",
+      "vegetariano": null,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La masa contiene gluten. Todos los quesos contienen leche. No se puede confirmar si los quesos utilizados son aptos para vegetarianos estrictos (cuajo animal). Consultar con el personal."
+    },
+    {
+      "id": "piz-04",
+      "nombre": "Prosciutto e Funghi",
+      "vegetariano": false,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La masa contiene gluten. La mozzarella contiene leche."
+    },
+    {
+      "id": "piz-05",
+      "nombre": "Vegana del Orto",
+      "vegetariano": true,
+      "alergenos": ["gluten"],
+      "nota": "La masa contiene gluten. Sin lácteos. Apta para veganos. Las verduras de temporada pueden variar."
+    },
+    {
+      "id": "piz-06",
+      "nombre": "Tartufo",
+      "vegetariano": null,
+      "alergenos": ["gluten", "leche"],
+      "nota": "La masa contiene gluten. La mozzarella contiene leche. No se puede confirmar el origen del cuajo de la mozzarella para vegetarianos estrictos. Consultar con el personal."
+    },
+    {
+      "id": "piz-07",
+      "nombre": "Pizza del Mes",
+      "vegetariano": null,
+      "alergenos": null,
+      "nota": "Ingredientes variables según temporada. Los alérgenos y la condición vegetariana no pueden confirmarse con antelación. Consultar disponibilidad e ingredientes con el personal antes de pedir."
+    },
+    {
+      "id": "dol-01",
+      "nombre": "Tiramisú della casa",
+      "vegetariano": true,
+      "alergenos": ["gluten", "leche", "huevo"],
+      "nota": "Los bizcochos de soletilla contienen gluten y huevo. El mascarpone contiene leche."
+    },
+    {
+      "id": "dol-02",
+      "nombre": "Panna cotta al caramelo",
+      "vegetariano": null,
+      "alergenos": ["leche", "frutos de cáscara"],
+      "nota": "La panna cotta contiene leche. Las avellanas tostadas son frutos de cáscara. No se puede confirmar si la gelatina utilizada es de origen vegetal o animal. Consultar con el personal."
+    },
+    {
+      "id": "dol-03",
+      "nombre": "Gelato artesanal",
+      "vegetariano": true,
+      "alergenos": ["leche", "huevo"],
+      "nota": "Los alérgenos pueden variar según el sabor del día. Leche y huevo son alérgenos habituales en helados artesanales, pero pueden variar. Consultar el sabor disponible antes de pedir."
+    },
+    {
+      "id": "bev-01",
+      "nombre": "Agua mineral",
+      "vegetariano": true,
+      "alergenos": [],
+      "nota": "Sin alérgenos."
+    },
+    {
+      "id": "bev-02",
+      "nombre": "Refresco",
+      "vegetariano": true,
+      "alergenos": [],
+      "nota": "Sin alérgenos de declaración obligatoria. La variedad exacta puede cambiar. Consultar disponibilidad."
+    },
+    {
+      "id": "bev-03",
+      "nombre": "Vino de la casa",
+      "vegetariano": true,
+      "alergenos": ["sulfitos"],
+      "nota": "El vino contiene sulfitos."
+    },
+    {
+      "id": "bev-04",
+      "nombre": "Cerveza artesana",
+      "vegetariano": true,
+      "alergenos": ["gluten"],
+      "nota": "La cerveza contiene gluten (cebada). No apta para celíacos."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "nombre_restaurante": "Fornaviva",
+  "nota_general": "Abrimos todos los días excepto los lunes. En festivos y fechas especiales consultad disponibilidad.",
+  "minutos_antes_cierre": 90,
+  "horarios": [
+    {
+      "dia": "Lunes",
+      "abierto": false,
+      "motivo": "Día de descanso del personal"
+    },
+    {
+      "dia": "Martes",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:00",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "23:30",
+        "dia_siguiente": false
+      }
+    },
+    {
+      "dia": "Miércoles",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:00",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "23:30",
+        "dia_siguiente": false
+      }
+    },
+    {
+      "dia": "Jueves",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:00",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "23:30",
+        "dia_siguiente": false
+      }
+    },
+    {
+      "dia": "Viernes",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:30",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "01:00",
+        "dia_siguiente": true
+      }
+    },
+    {
+      "dia": "Sábado",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:30",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "01:00",
+        "dia_siguiente": true
+      }
+    },
+    {
+      "dia": "Domingo",
+      "abierto": true,
+      "turno_mediodia": {
+        "apertura": "13:00",
+        "cierre": "16:30",
+        "dia_siguiente": false
+      },
+      "turno_noche": {
+        "apertura": "20:00",
+        "cierre": "23:00",
+        "dia_siguiente": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "nombre_restaurante": "Fornaviva",
+  "carta": [
+    {
+      "categoria": "Antipasti",
+      "platos": [
+        {
+          "id": "ant-01",
+          "nombre": "Bruschetta al pomodoro",
+          "descripcion": "Pan de masa madre tostado con tomate fresco, albahaca y aceite de oliva virgen extra",
+          "precio": 6.50
+        },
+        {
+          "id": "ant-02",
+          "nombre": "Burrata con rúcula",
+          "descripcion": "Burrata cremosa con rúcula fresca, tomates cherry y reducción de balsámico",
+          "precio": 9.00
+        },
+        {
+          "id": "ant-03",
+          "nombre": "Tabla de embutidos italianos",
+          "descripcion": "Selección de prosciutto, salame y mortadela con focaccia",
+          "precio": 12.00
+        },
+        {
+          "id": "ant-04",
+          "nombre": "Sopa de tomate al pesto",
+          "descripcion": "Crema de tomate asado con pesto genovés y picatostes crujientes",
+          "precio": 7.00
+        }
+      ]
+    },
+    {
+      "categoria": "Pizzas",
+      "platos": [
+        {
+          "id": "piz-01",
+          "nombre": "Margherita",
+          "descripcion": "Salsa de tomate San Marzano, mozzarella fior di latte y albahaca fresca",
+          "precio": 11.00
+        },
+        {
+          "id": "piz-02",
+          "nombre": "Diavola",
+          "descripcion": "Salsa de tomate, mozzarella, salame piccante y guindilla",
+          "precio": 13.50
+        },
+        {
+          "id": "piz-03",
+          "nombre": "Quattro Formaggi",
+          "descripcion": "Mozzarella, gorgonzola, parmesano y ricotta",
+          "precio": 14.00
+        },
+        {
+          "id": "piz-04",
+          "nombre": "Prosciutto e Funghi",
+          "descripcion": "Salsa de tomate, mozzarella, jamón cocido y champiñones",
+          "precio": 13.00
+        },
+        {
+          "id": "piz-05",
+          "nombre": "Vegana del Orto",
+          "descripcion": "Salsa de tomate, verduras de temporada asadas, aceitunas y orégano (sin queso)",
+          "precio": 12.50
+        },
+        {
+          "id": "piz-06",
+          "nombre": "Tartufo",
+          "descripcion": "Crema de trufa negra, mozzarella, champiñones silvestres y rúcula",
+          "precio": 16.00
+        },
+        {
+          "id": "piz-07",
+          "nombre": "Pizza del Mes",
+          "descripcion": "Creación del chef según temporada. Consultar disponibilidad e ingredientes con el personal.",
+          "precio": 14.50
+        }
+      ]
+    },
+    {
+      "categoria": "Dolci",
+      "platos": [
+        {
+          "id": "dol-01",
+          "nombre": "Tiramisú della casa",
+          "descripcion": "Receta tradicional con mascarpone, bizcochos de soletilla y café espresso",
+          "precio": 6.50
+        },
+        {
+          "id": "dol-02",
+          "nombre": "Panna cotta al caramelo",
+          "descripcion": "Panna cotta con salsa de caramelo salado y avellanas tostadas",
+          "precio": 5.50
+        },
+        {
+          "id": "dol-03",
+          "nombre": "Gelato artesanal",
+          "descripcion": "Dos bolas de helado artesanal. Consultar sabores del día con el personal.",
+          "precio": 4.50
+        }
+      ]
+    },
+    {
+      "categoria": "Bevande",
+      "platos": [
+        {
+          "id": "bev-01",
+          "nombre": "Agua mineral",
+          "descripcion": "Natural o con gas, 50 cl",
+          "precio": 2.00
+        },
+        {
+          "id": "bev-02",
+          "nombre": "Refresco",
+          "descripcion": "Selección de refrescos, 33 cl",
+          "precio": 2.50
+        },
+        {
+          "id": "bev-03",
+          "nombre": "Vino de la casa",
+          "descripcion": "Copa de vino tinto, blanco o rosado de la región",
+          "precio": 3.50
+        },
+        {
+          "id": "bev-04",
+          "nombre": "Cerveza artesana",
+          "descripcion": "Cerveza italiana importada, 33 cl",
+          "precio": 3.50
+        }
+      ]
+    }
+  ]
+}
